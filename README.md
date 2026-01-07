@@ -8,20 +8,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,docker,bash" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyr3210115527&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15&rank=S,A,B,C" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://gh-card.dev/repos/zyr3210115527/Clock-Drawing-Test-CDT?theme=dracula&fullname=zyr3210115527" height="180" alt="stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyr3210115527&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs"/>
-</div>
-
 ---
 
 ### 🧬 About Me
