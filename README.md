@@ -11,6 +11,6 @@
 ---
 
 ### 🧬 About Me
-- 🎓 **Education**: M.S. in Bioinformatics @ **CAS** (University of Chinese Academy of Sciences); B.S. @ **Zhejiang University**.
+- 🎓 **Education**: M.S. in Bioinformatics @ **UCAS** (University of Chinese Academy of Sciences); B.S. @ **Zhejiang University**.
 - 🔭 **Research**: Focusing on **Multimodal Large Language Models (MLLMs)** and their applications in healthcare (e.g., CDT Analysis).
 - 🌱 **Goal**: Developing next-gen AI for medical diagnostics.
