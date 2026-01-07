@@ -11,24 +11,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyr3210115527&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zyr3210115527&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15&rank=S,A,B,C" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyr3210115527&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats"/>
-  
+  <img src="https://gh-card.dev/repos/zyr3210115527/Clock-Drawing-Test-CDT?theme=dracula&fullname=zyr3210115527" height="180" alt="stats"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyr3210115527&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs"/>
 </div>
 
 ---
 
 ### 🧬 About Me
-- 🎓 **Education**: M.S. in Bioinformatics @ **UCAS** (University of Chinese Academy of Sciences); B.S. @ **Zhejiang University**.
-- 🔭 **Research**: Focusing on **Multimodal Large Language Models (MLLMs)** .
+- 🎓 **Education**: M.S. in Bioinformatics @ **CAS** (University of Chinese Academy of Sciences); B.S. @ **Zhejiang University**.
+- 🔭 **Research**: Focusing on **Multimodal Large Language Models (MLLMs)** and their applications in healthcare (e.g., CDT Analysis).
 - 🌱 **Goal**: Developing next-gen AI for medical diagnostics.
-
-<div align="center">
-  <img src="https://github.com/zyr3210115527/zyr3210115527/blob/output/github-contribution-grid-snake.svg" />
-</div>
