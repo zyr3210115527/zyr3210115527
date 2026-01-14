@@ -10,7 +10,7 @@
 
 ---
 
-### 🧬 About Me
-- 🎓 **Education**: M.S. in Bioinformatics @ **UCAS** (University of Chinese Academy of Sciences); B.S. @ **Zhejiang University**.
-- 🔭 **Research**: Focus on the application algorithms of **LLM** (NLP, multimodal) in various fields.
-- 🌱 **Goal**: Developing next-gen AI for medical diagnostics.
+###  About Me
+ **Education**: M.S. in Bioinformatics @ **UCAS** (University of Chinese Academy of Sciences); B.S. @ **Zhejiang University**.
+   **Research**: Focus on the application algorithms of **LLM** (NLP, multimodal) in various fields.
+   **Goal**: Developing next-gen AI for medical diagnostics.
