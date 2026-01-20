@@ -15,4 +15,4 @@
  
    **Research**: Focus on the application algorithms of **LLM** (NLP, multimodal) in various fields.
    
-   **Goal**: Developing next-gen AI for medical diagnostics.
+   **Goal**: Developing next-gen AI for medical diagnostics and others field.
